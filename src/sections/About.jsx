@@ -14,23 +14,30 @@ const About = () => {
       <div className="grid md:grid-cols-2 gap-12">
         <div className="space-y-6 text-lg leading-relaxed">
           <p>
-            Soy un desarrollador full stack apasionado por crear soluciones web
-            innovadoras y eficientes. Con experiencia en Laravel y React, me
-            especializo en construir aplicaciones que no solo funcionan
-            perfectamente, sino que también ofrecen una experiencia de usuario
-            excepcional.
+            Soy egresado de Diseño y Desarrollo de Software en TECSUP y
+            estudiante de Ingeniería de Sistemas en la UPC. Me apasiona el
+            desarrollo de software y la creación de soluciones tecnológicas
+            orientadas a resolver problemas reales dentro de las empresas.
           </p>
 
           <p>
-            Mi enfoque se centra en escribir código limpio, escalable y
-            mantenible. Me motiva el desafío de resolver problemas complejos y
-            transformar ideas en productos digitales que generen un impacto
-            real.
+            Tengo experiencia en desarrollo web utilizando PHP, JavaScript,
+            Python, Laravel, Node.js y React, participando en la creación,
+            mantenimiento y mejora de aplicaciones web, APIs y herramientas de
+            automatización.
           </p>
 
           <p>
-            Constantemente busco aprender nuevas tecnologías y mejores prácticas
-            para mantenerme actualizado en este campo en constante evolución.
+            Además, cuento con experiencia en soporte TI, administración de
+            servidores y gestión de infraestructura tecnológica, lo que me
+            permite comprender tanto el desarrollo de software como el entorno
+            donde las aplicaciones son desplegadas y utilizadas.
+          </p>
+
+          <p>
+            Me caracterizo por mi compromiso, capacidad de adaptación y
+            aprendizaje continuo, buscando siempre adquirir nuevos conocimientos
+            y aportar valor en cada proyecto en el que participo.
           </p>
         </div>
 
@@ -40,9 +47,12 @@ const About = () => {
               <Code2 className="text-blue-300" size={24} />
             </div>
             <div>
-              <h3 className="text-xl font-semibold">Atención al Detalle</h3>
+              <h3 className="text-xl font-semibold">
+                Desarrollo de Software
+              </h3>
               <p className="text-gray-300">
-                Código limpio y bien estructurado que facilita el mantenimiento
+                Experiencia en aplicaciones web, APIs REST, bases de datos y
+                automatización de procesos.
               </p>
             </div>
           </div>
@@ -54,7 +64,8 @@ const About = () => {
             <div>
               <h3 className="text-xl font-semibold">Trabajo en Equipo</h3>
               <p className="text-gray-300">
-                Colaboración efectiva con equipos multidisciplinarios
+                Colaboración efectiva con equipos multidisciplinarios utilizando
+                metodologías ágiles como Scrum.
               </p>
             </div>
           </div>
@@ -64,9 +75,10 @@ const About = () => {
               <Lightbulb className="text-blue-300" size={24} />
             </div>
             <div>
-              <h3 className="text-xl font-semibold">Aprendizaje Rápido</h3>
+              <h3 className="text-xl font-semibold">Aprendizaje Continuo</h3>
               <p className="text-gray-300">
-                Adaptación continua a nuevas tecnologías y metodologías
+                Siempre en búsqueda de nuevas tecnologías, herramientas y buenas
+                prácticas para seguir creciendo profesionalmente.
               </p>
             </div>
           </div>

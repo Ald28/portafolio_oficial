@@ -35,7 +35,7 @@ const Footer = () => {
         <div className="w-full h-px bg-white/10"></div>
 
         <p className="text-sm text-gray-400 text-center">
-          © {new Date().getFullYear()} Aldo Ruiz — Todos los derechos reservados.
+          © {new Date().getFullYear()} Aldo Sánchez — Todos los derechos reservados.
         </p>
       </div>
     </footer>

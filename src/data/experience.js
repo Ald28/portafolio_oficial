@@ -1,35 +1,35 @@
 export const experience = [
     {
-        title: "Desarrollador Full Stack",
-        company: "Tech Solutions S.A.",
-        date: "Ene 2023 - Presente",
+        title: "Desarrollador Web y Soporte TI Jr.",
+        company: "Tecnología Industrial Peruana S.A.C.",
+        date: "2026 - Actualidad",
         items: [
-            "Implementé sistema de autenticación con OAuth2 usando Laravel",
-            "Optimizé consultas SQL reduciendo tiempo de carga en 30%",
-            "Desarrollé módulo de reportes automáticos con generación de PDFs",
-            "Lideré migración de frontend legacy a React con TypeScript"
+            "Desarrollo y mantenimiento de aplicaciones web internas con PHP, JavaScript, HTML y CSS.",
+            "Automatización de procesos mediante Python, incluyendo generación de códigos QR y notificaciones por WhatsApp.",
+            "Administración de servidores Windows y soporte a la infraestructura tecnológica empresarial.",
+            "Gestión y solución de incidencias relacionadas con sistemas, redes y recursos tecnológicos."
         ]
     },
     {
-        title: "Desarrollador Backend",
-        company: "StartUp Innovadora",
-        date: "Jun 2022 - Dic 2022",
+        title: "Desarrollador Web Jr.",
+        company: "NEON HOUSE LED",
+        date: "2025",
         items: [
-            "Diseñé e implementé API RESTful escalable con Laravel",
-            "Integré servicios de terceros (Stripe, SendGrid, AWS S3)",
-            "Implementé sistema de caché con Redis mejorando performance",
-            "Participé en code reviews y establecimiento de estándares"
+            "Desarrollo de módulos para la plataforma Contigo Voy orientados a la gestión de pacientes y citas virtuales.",
+            "Implementación de control de acceso y permisos basados en roles de usuario.",
+            "Administración de usuarios, recuperación de credenciales y envío automatizado de correos.",
+            "Despliegue y mantenimiento de aplicaciones web en entornos de producción."
         ]
     },
     {
-        title: "Practicante de Desarrollo Web",
-        company: "Digital Agency",
-        date: "Ene 2022 - May 2022",
+        title: "Desarrollador Back-end",
+        company: "PROYINTER",
+        date: "2024",
         items: [
-            "Desarrollé componentes reutilizables en React",
-            "Implementé diseños responsive con Tailwind CSS",
-            "Colaboré en proyecto de e-commerce con Laravel",
-            "Participé en ceremonias ágiles (daily standups, sprint planning)"
+            "Participé en el desarrollo y mantenimiento de plataformas corporativas orientadas a clientes y proveedores.",
+            "Colaboré en la gestión y validación de bases de datos empresariales.",
+            "Realicé pruebas y validaciones de código antes de su despliegue a producción.",
+            "Apoyé en la mejora de funcionalidades y procesos internos relacionados con la gestión de información."
         ]
     }
 ];

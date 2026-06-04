@@ -1,30 +1,44 @@
 export const education = [
     {
         type: "education",
-        title: "Ingeniería en Sistemas Computacionales",
-        institution: "Universidad Tecnológica",
-        year: "2019 - 2023",
+        title: "Ingeniería de Sistemas",
+        institution: "Universidad Peruana de Ciencias Aplicadas (UPC)",
+        year: "2026 - Actualidad",
+        icon: "graduation"
+    },
+    {
+        type: "education",
+        title: "Diseño y Desarrollo de Software",
+        institution: "TECSUP",
+        year: "2022 - 2025",
         icon: "graduation"
     },
     {
         type: "certification",
-        title: "Certificación Laravel Professional",
-        institution: "Laravel Certification",
+        title: "Scrum Fundamentals Certified",
+        institution: "SCRUMstudy",
+        year: "2024",
+        icon: "badge"
+    },
+    {
+        type: "course",
+        title: "APIs RESTful con Laravel",
+        institution: "Udemy",
+        year: "2024",
+        icon: "badge"
+    },
+    {
+        type: "course",
+        title: "Fundamentos de Python",
+        institution: "Cisco Networking Academy",
         year: "2023",
         icon: "badge"
     },
     {
         type: "course",
-        title: "React & TypeScript: The Complete Guide",
-        institution: "Udemy",
+        title: "Curso de Linux",
+        institution: "Cisco Networking Academy",
         year: "2023",
-        icon: "badge"
-    },
-    {
-        type: "certification",
-        title: "AWS Certified Developer",
-        institution: "Amazon Web Services",
-        year: "2022",
         icon: "badge"
     }
 ];
