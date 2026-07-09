@@ -81,7 +81,7 @@ export const projectsData = [
         role: null,
         impact: null,
         tech: ["HTML", "CSS", "JavaScript", "Render"],
-        demo: "https://galeria-imagenes-7mim.onrender.com/",
+        demo: "https://galeria.aldosanchez.es/",
         code: "#",
     },
     
