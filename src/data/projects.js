@@ -72,4 +72,17 @@ export const projectsData = [
         demo: null,
         code: "#",
     },
+    {
+        id: 7,
+        category: "Freelance",
+        title: "Galeria de imagenes",
+        description:
+            "Aplicación web para visualizar y gestionar imágenes con soporte para múltiples formatos.",
+        role: null,
+        impact: null,
+        tech: ["HTML", "CSS", "JavaScript", "Render"],
+        demo: "https://galeria-imagenes-7mim.onrender.com/",
+        code: "#",
+    },
+    
 ];
