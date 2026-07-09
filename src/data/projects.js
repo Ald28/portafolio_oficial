@@ -15,14 +15,14 @@ export const projectsData = [
     {
         id: 2,
         category: "Freelance",
-        title: "E-commerce Completo",
+        title: "Portafolio de Video Juegos",
         description:
-            "Plataforma de comercio electrónico con integración de pagos y gestión de inventario en tiempo real.",
+            "Portafolio personal de videojuegos con integración de imagenes 3D.",
         role: null,
         impact: null,
         tech: ["React", "Node.js", "MongoDB", "Stripe"],
-        demo: "#",
-        code: "#",
+        demo: "https://hammer-boom.aldosanchez.es/",
+        code: "https://github.com/Ald28/hammerboom-landing",
     },
     {
         id: 3,
@@ -82,7 +82,7 @@ export const projectsData = [
         impact: null,
         tech: ["HTML", "CSS", "JavaScript", "Render"],
         demo: "https://galeria.aldosanchez.es/",
-        code: "#",
+        code: "https://github.com/Ald28/GALERIA-IMAGENES",
     },
     
 ];
